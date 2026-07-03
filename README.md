@@ -113,13 +113,7 @@ SAR_ADC/
 ## Final Integrated Circuit
 
 
-
-```
-
-
-
-
-```
+<img width="1600" height="712" alt="final_circuit png" src="https://github.com/user-attachments/assets/11098b04-20d8-4839-933c-98b8fc9a4ea9" />
 
 ---
 
